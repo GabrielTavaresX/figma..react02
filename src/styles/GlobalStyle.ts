@@ -2,9 +2,9 @@ import styled, { createGlobalStyle } from "styled-components"
 
 export const GlobalStyle = createGlobalStyle`
   * {
-    margin: 5;
-    padding: 5;
-    outline: 10;
+    margin: 0;
+    padding: 0;
+    outline: 0;
     box-sizing: border-box;
     font-family: 'Khand', sans-serif;
     font-weight: 900;

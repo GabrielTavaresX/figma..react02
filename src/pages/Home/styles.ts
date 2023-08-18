@@ -1,12 +1,17 @@
 import styled from 'styled-components'
 
 export const Section = styled.section`
-  display: flex;
-  max-width: 1090px;
+  display: grid;
   margin: 0 auto;
+  grid-template-columns: repeat(5 , 1fr);
   img {
-    width: 50%;
+    /* width: 100%; */
+    width: 100%;
+    padding: 0.5rem ;
+    height: 100%;
+
   }
-`
+ `
+
 
 

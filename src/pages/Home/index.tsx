@@ -23,6 +23,9 @@ export function Home() {
       <img src={transformers} alt="constantine" />
       <img src={ligaDaJustica} alt="constantine" />
       <img src={naruto} alt="constantine" />
+      <a href="/list">
+      <img src={AmorteDaFamilia} alt="constantine" />
+      </a>
       
       
     </S.Section>
