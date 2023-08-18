@@ -1,6 +1,6 @@
 import * as S from "./style"
-import Face from "../../assets/Vector.png"
-import Insta from "../../assets/Vector(1).png"
+import Face from "../../assets/Vector (1).png"
+import Insta from "../../assets/Vector.png"
 
  export function Footer(){
     return(
